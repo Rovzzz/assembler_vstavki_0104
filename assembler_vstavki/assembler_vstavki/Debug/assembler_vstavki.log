@@ -1,0 +1,36 @@
+﻿  Source.c
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(11,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(13,14): warning C4013: Addition_As: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(17,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(19,17): warning C4013: Subtraction_As: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(23,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(25,20): warning C4013: Multiplication_As: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(31,14): warning C4013: Division_As: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(35,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(37,13): warning C4013: Remains_AS: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(41,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(43,16): warning C4013: Comparison_AS: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(47,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(49,27): warning C4013: ComparisonsOf3Numbers_AS: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(53,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(55,12): warning C4013: Change_As: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(60,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(62,11): warning C4013: Addition: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(66,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(68,14): warning C4013: Subtraction: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(72,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(74,17): warning C4013: Multiplication: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(78,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(80,11): warning C4013: Division: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(86,10): warning C4013: Remains: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(90,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(92,13): warning C4013: Comparison: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(96,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(98,23): warning C4013: ComparisonOf3Numbers: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(104,18): warning C4013: ChangingNumbers: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(270,6): warning C4101: c: неиспользованная локальная переменная
+C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\assembler_vstavki\Source.c(364): warning C4716: ChangingNumbers: должна возвращать значение
+  assembler_vstavki.vcxproj -> C:\Users\1290743\Desktop\Системное программирование\assembler_vstavki\assembler_vstavki\Debug\assembler_vstavki.exe
